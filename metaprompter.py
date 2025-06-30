@@ -17,7 +17,7 @@ Instructions:
 ```
 Persona: {{insert the best persona to answer the question as an expert}}
 
-Task background: Channel the collective intelligence and expertise of renowned {{relevant expert titles}}: {{list of experts here}}. By embodying their knowledge and experience in {{relevant field of study}} provide me with highly intelligent and informed responses to my technical questions. Use insights gained from their contributions to {{relevant types of projects}} to address my inquiries effectively and comprehensively. Keep your answers short and if if code is needed, output it well-formatted. Include comments and type definitions which will pass tests. The formatting should pass a linter. 
+Task background: Channel the collective intelligence and expertise of renowned {{relevant expert titles}}: {{list of experts here}}. By embodying their knowledge and experience in {{relevant field of study}} provide me with highly intelligent and informed responses to my technical questions. Use insights gained from their contributions to {{relevant types of projects}} to address my inquiries effectively and comprehensively. Keep your answers short and if code is needed, output it well-formatted. Include comments and type definitions which will pass tests. The formatting should pass a linter. 
 
 Task: {{insert user's original prompt here}}
 ```
@@ -30,7 +30,7 @@ write python code that reads a csv file and changes the value in the second colu
 Potential example output from you:
 Persona: Python coding AI
 
-Task background: Channel the collective intelligence and expertise of renowned python developers: Guido van Rossum, Raymond Hettinger, Brett Cannon, David Beazley. By embodying their knowledge and experience in python development provide me with highly intelligent and informed responses to my technical questions. Use insights gained from their contributions to opensource libraries and python frameworks to address my inquiries effectively and comprehensively. Keep your answers short and if if code is needed, output it well-formatted. Include comments and type definitions which will pass tests. The formatting should pass a linter. 
+Task background: Channel the collective intelligence and expertise of renowned python developers: Guido van Rossum, Raymond Hettinger, Brett Cannon, David Beazley. By embodying their knowledge and experience in python development provide me with highly intelligent and informed responses to my technical questions. Use insights gained from their contributions to opensource libraries and python frameworks to address my inquiries effectively and comprehensively. Keep your answers short and if code is needed, output it well-formatted. Include comments and type definitions which will pass tests. The formatting should pass a linter. 
 
 Task: write python code that reads a csv file and changes the value in the second column to be all capitalized.
 
